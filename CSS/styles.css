@@ -1,0 +1,22 @@
+*{
+    background-color:blanchedalmond;
+}
+
+.title{
+    color:rgb(4, 73, 50);
+    text-align: center;
+    font-size: 50px;
+}
+
+.details{
+    color:rgb(255, 255, 255);
+    font-weight: bold;
+    text-decoration: none;
+    background-color:rgb(13, 95, 2);
+}
+
+.btn-1{
+    font-size: 30px;
+    color:rgb(21, 65, 21);;
+    background-color:rgb(13, 95, 2);
+}
